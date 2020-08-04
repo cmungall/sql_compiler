@@ -1,0 +1,9 @@
+author: null
+contributors: null
+creators: null
+github_org: cmungall
+name: sql_compiler
+packager: null
+repo: sql_compiler
+requires: []
+title: Translates logic program queries to SQL
